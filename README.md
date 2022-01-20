@@ -34,3 +34,10 @@ run the lscr.io/linuxserver/smokeping container?
 
 - yes. this will do nicely.
 
+
+
+
+-------------------------------------------------------------------------------
+Copyright (c) 2022 Christopher DeMarco.
+
+[Licensed](LICENSE) under the terms of the MIT License.
