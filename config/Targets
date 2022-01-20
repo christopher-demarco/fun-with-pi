@@ -10,10 +10,25 @@ title = Unauthorized access prohibited.
 menu = Network
 title = Network
 
+++ AWS
+menu = AWS
+title = AWS
+host = aws.amazon.com
+
+++ Bing
+menu = Bing
+title = Bing
+host = bing.com
+
 ++ Facebook
 menu = Facebook
 title = Facebook
 host = facebook.com
+
+++ IBM
+menu = IBM
+title = IBM
+host = ibm.com
 
 ++ Youtube
 menu = YouTube
