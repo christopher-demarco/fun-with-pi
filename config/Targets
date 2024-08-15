@@ -10,6 +10,11 @@ title = Unauthorized access prohibited.
 menu = Network
 title = Network
 
+++ Fios
+menu = Fios
+title = Home Fios WAP
+host = 192.168.0.1
+
 ++ AWS
 menu = AWS
 title = AWS
@@ -133,3 +138,18 @@ host = 4.2.2.2
 menu = Quad9
 title = Quad9 DNS 9.9.9.9
 host = 9.9.9.9
+
++ HTTP
+menu = HTTP
+title = HTTP
+probe = Curl
+
+++ Ford
+menu = Ford.com
+title = Ford.com
+host = ford.com
+
+++ Google
+menu = Google.com
+title = Google.com
+host = google.com

@@ -40,9 +40,8 @@ run the lscr.io/linuxserver/smokeping container?
 resurrected, fios vs. zoom calls.
 what a cool thing to come find already done!
 
-- TODO fix sshd on pi400
 - vastly tightened the polling frequency
-- TODO http?.
+- curl
 
 gosh, the pi 400 keyboard is garbage. either the c&s wifi doesn't
 allow client-to-client traffic, or the pi is effed.
