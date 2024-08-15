@@ -10,9 +10,19 @@ title = Unauthorized access prohibited.
 menu = Network
 title = Network
 
-++ Fios
-menu = Fios
-title = Home Fios WAP
+++ Nowhere
+menu = Nowhere
+title = Nowhere
+host = 0.0.0.1
+
+++ Self
+menu = Self
+title = Self
+host = 127.0.0.1
+
+++ FiosGW
+menu = Home Fios GW
+title = Home Fios GW
 host = 192.168.1.1
 
 ++ AWS
