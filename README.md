@@ -35,6 +35,17 @@ run the lscr.io/linuxserver/smokeping container?
 - yes. this will do nicely.
 
 
+#### 2024-08-14
+
+resurrected, fios vs. zoom calls.
+what a cool thing to come find already done!
+
+- TODO fix sshd on pi400
+- vastly tightened the polling frequency
+- TODO http?.
+
+gosh, the pi 400 keyboard is garbage. either the c&s wifi doesn't
+allow client-to-client traffic, or the pi is effed.
 
 
 -------------------------------------------------------------------------------
