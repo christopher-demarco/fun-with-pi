@@ -10,11 +10,6 @@ title = Unauthorized access prohibited.
 menu = Network
 title = Network
 
-++ Nowhere
-menu = Nowhere
-title = Nowhere
-host = 0.0.0.1
-
 ++ Self
 menu = Self
 title = Self
@@ -74,30 +69,30 @@ menu = OpenDNS2
 title = OpenDNS2
 host = 208.67.220.220
 
-++ CloudflareDNS1
-menu = Cloudflare DNS 1
-title = Cloudflare DNS 1.1.1.1
-host = 1.1.1.1
+# ++ CloudflareDNS1
+# menu = Cloudflare DNS 1
+# title = Cloudflare DNS 1.1.1.1
+# host = 1.1.1.1
 
-++ CloudflareDNS2
-menu = Cloudflare DNS 2
-title = Cloudflare DNS 1.0.0.1
-host = 1.0.0.1
+# ++ CloudflareDNS2
+# menu = Cloudflare DNS 2
+# title = Cloudflare DNS 1.0.0.1
+# host = 1.0.0.1
 
-++ L3-1
-menu = Level3 DNS 1
-title = Level3 DNS 4.2.2.1
-host = 4.2.2.1
+# ++ L3-1
+# menu = Level3 DNS 1
+# title = Level3 DNS 4.2.2.1
+# host = 4.2.2.1
 
-++ L3-2
-menu = Level3 DNS 2
-title = Level3 DNS 4.2.2.2
-host = 4.2.2.2
+# ++ L3-2
+# menu = Level3 DNS 2
+# title = Level3 DNS 4.2.2.2
+# host = 4.2.2.2
 
-++ Quad9
-menu = Quad9
-title = Quad9 DNS 9.9.9.9
-host = 9.9.9.9
+# ++ Quad9
+# menu = Quad9
+# title = Quad9 DNS 9.9.9.9
+# host = 9.9.9.9
 
 + DNSProbes
 menu = DNS Probes
@@ -124,30 +119,30 @@ menu = OpenDNS2
 title = OpenDNS2
 host = 208.67.220.220
 
-++ CloudflareDNS1
-menu = Cloudflare DNS 1
-title = Cloudflare DNS 1.1.1.1
-host = 1.1.1.1
+# ++ CloudflareDNS1
+# menu = Cloudflare DNS 1
+# title = Cloudflare DNS 1.1.1.1
+# host = 1.1.1.1
 
-++ CloudflareDNS2
-menu = Cloudflare DNS 2
-title = Cloudflare DNS 1.0.0.1
-host = 1.0.0.1
+# ++ CloudflareDNS2
+# menu = Cloudflare DNS 2
+# title = Cloudflare DNS 1.0.0.1
+# host = 1.0.0.1
 
-++ L3-1
-menu = Level3 DNS 1
-title = Level3 DNS 4.2.2.1
-host = 4.2.2.1
+# ++ L3-1
+# menu = Level3 DNS 1
+# title = Level3 DNS 4.2.2.1
+# host = 4.2.2.1
 
-++ L3-2
-menu = Level3 DNS 2
-title = Level3 DNS 4.2.2.2
-host = 4.2.2.2
+# ++ L3-2
+# menu = Level3 DNS 2
+# title = Level3 DNS 4.2.2.2
+# host = 4.2.2.2
 
-++ Quad9
-menu = Quad9
-title = Quad9 DNS 9.9.9.9
-host = 9.9.9.9
+# ++ Quad9
+# menu = Quad9
+# title = Quad9 DNS 9.9.9.9
+# host = 9.9.9.9
 
 + HTTP
 menu = HTTP
